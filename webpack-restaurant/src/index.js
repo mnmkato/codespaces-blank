@@ -4,11 +4,17 @@ import {contact} from './contact.js'
 
 const content = document.getElementById('content')
 
-const heading = document.createElement('h1')
-heading.textContent='webpack-restaurant'
+const heading = document.createElement('div')
+heading.classList.add("heading")
 content.appendChild(heading)
 
+const logo = document.createElement('h1')
+logo.textContent='masha foods'
+logo.classList.add("logo")
+heading.appendChild(logo)
+
 const nav = document.createElement('nav')
+nav.classList.add("nav")
 
 const linkHome = document.createElement('div')
 const linkMenu = document.createElement('div')
@@ -22,7 +28,7 @@ nav.appendChild(linkHome)
 nav.appendChild(linkMenu)
 nav.appendChild(linkContact)
 
-content.appendChild(nav)
+heading.appendChild(nav)
 
 linkHome.addEventListener("click",home)
 linkMenu.addEventListener("click",menu)

@@ -2,6 +2,7 @@ const home =function(){
     
     const container = document.getElementById('container')
     container.innerHTML=""
+    container.classList.add("containerHome")
 
     const image = document.createElement('img')
     image.src="capture.png"
