@@ -1,11 +1,13 @@
+import masha from './masha.png'
+
 const home =function(){
     
     const container = document.getElementById('container')
     container.innerHTML=""
     container.classList.add("containerHome")
 
-    const image = document.createElement('img')
-    image.src="capture.png"
+    const image = new Image()
+    image.src=masha
     container.appendChild(image)
 
     const text = document.createElement('p')

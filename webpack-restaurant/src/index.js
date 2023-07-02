@@ -39,4 +39,4 @@ const container = document.createElement('div')
 container.id='container'
 content.appendChild(container)
 
-menu();
+home();
