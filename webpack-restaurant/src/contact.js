@@ -1,14 +1,8 @@
+import branchesData from './data/branches.json5'
+
 const contact =function(){
-    const branches=[{
-        name:"Kireka",
-        tel:"0756 001 002",
-        location:"The Junction Mall, Namugongo road opposite Shell Kireka"
-    },
-    {
-        name:"Bugolobi",
-        tel:"0709 001 002",
-        location:"Middle East Hospital & Complex Opp. Bugolobi medical centre"
-    }]
+    const branches= branchesData
+  
     const container = document.getElementById('container')
     container.innerHTML=""
     container.classList.remove("containerHome")
@@ -41,24 +35,5 @@ const contact =function(){
 
         contactdivContainer.appendChild(contactdiv)
     }
-
-    const socialdiv = document.createElement('div')
-    socialdiv.classList.add('socialdiv')
-/*
-    const fb = document.createElement('i')
-    fb.classList.add('fa-brands','fa-facebook')
-    socialdiv.appendChild(fb)
-
-    const insta = document.createElement('i')
-    insta.classList.add('fa-brands','fa-instagram')
-    socialdiv.appendChild(insta)
-
-    
-    const twitter = document.createElement('i')
-    twitter.classList.add('fa-brands','fa-twitter')
-    socialdiv.appendChild(twitter)
-*/
-    socialdiv.textContent='@mashafoods_'
-    container.appendChild(socialdiv);
 }
 export{contact}
