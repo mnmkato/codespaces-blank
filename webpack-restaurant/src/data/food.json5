@@ -76,23 +76,23 @@
   },
   {
     type: 3,
-    name: "Muffins(per piece)",
-    price: "3000",
+    name: "Cookies (100g)",
+    price: "5000",
   },
   {
     type: 3,
-    name: "Muffins(per piece)",
-    price: "3000",
+    name: "Cookies (400g)",
+    price: "20000",
   },
   {
     type: 3,
-    name: "Muffins(per piece)",
-    price: "3000",
+    name: "Marble slice",
+    price: "5000",
   },
   {
     type: 3,
-    name: "Muffins(per piece)",
-    price: "3000",
+    name: "Cake slice",
+    price: 12000",
   },
   {
     type: 4,
@@ -101,18 +101,18 @@
   },
   {
     type: 4,
-    name: "Plain Omelete",
+    name: "Spanish Omelete",
     price: "8000",
   },
   {
     type: 4,
-    name: "Plain Omelete",
-    price: "8000",
+    name: "Masha Egg rolex",
+    price: "10000",
   },
   {
     type: 4,
-    name: "Plain Omelete",
-    price: "8000",
+    name: "Masha Chicken | Beef Rolex",
+    price: "15000",
   },
   {
     type: 5,
@@ -121,28 +121,28 @@
   },
   {
     type: 5,
-    name: "Pan Fried Liver",
+    name: "Liver stew",
     price: "25000",
   },
   {
     type: 5,
-    name: "Pan Fried Liver",
+    name: "Pan Fried beef",
     price: "25000",
   },
   {
     type: 5,
-    name: "Pan Fried Liver",
+    name: "Beef stew africana",
     price: "25000",
   },
   {
     type: 5,
-    name: "Pan Fried Liver",
+    name: "Lyonnais beef",
     price: "25000",
   },
   {
     type: 5,
-    name: "Pan Fried Liver",
-    price: "25000",
+    name: "Pepper Steak (Dry or Wet)",
+    price: "30000",
   },
   {
     type: 6,
@@ -151,28 +151,28 @@
   },
   {
     type: 6,
-    name: "Bread Crumb Coated Chicken",
+    name: "Pan Fried Chicken",
     price: "25000",
   },
   {
     type: 6,
-    name: "Bread Crumb Coated Chicken",
+    name: "Barbacue Chicken",
+    price: "30000",
+  },
+  {
+    type: 6,
+    name: "Chicken Stew | Boiled",
     price: "25000",
   },
   {
     type: 6,
-    name: "Bread Crumb Coated Chicken",
-    price: "25000",
+    name: "Chicken Curry",
+    price: "30000",
   },
   {
     type: 6,
-    name: "Bread Crumb Coated Chicken",
-    price: "25000",
-  },
-  {
-    type: 6,
-    name: "Bread Crumb Coated Chicken",
-    price: "25000",
+    name: "Grilled Chicken",
+    price: "30000",
   },
   {
     type: 7,
@@ -181,17 +181,17 @@
   },
   {
     type: 7,
-    name: "Bread Crumb Coated Fish Fillet",
+    name: "Bread Crumb Coated Fish Fingers",
     price: "25000",
   },
   {
     type: 7,
-    name: "Bread Crumb Coated Fish Fillet",
-    price: "25000",
+    name: "Pan Fried Fish Cutlet",
+    price: "30000",
   },
   {
     type: 7,
-    name: "Bread Crumb Coated Fish Fillet",
+    name: "Pan Fried Fish Fillet",
     price: "25000",
   },
   {
@@ -201,12 +201,12 @@
   },
   {
     type: 8,
-    name: "Deep Fried Goat",
+    name: "Pan Fried Goat",
     price: "25000",
   },
   {
     type: 8,
-    name: "Deep Fried Goat",
+    name: "Goat Stew Africana",
     price: "25000",
   },
   {
@@ -222,41 +222,41 @@
   {
     type: 10,
     name: "Plain Chips",
+    price: "12000",
+  },
+  {
+    type: 10,
+    name: "Masala Chips | Lyonnaise Potatoes",
+    price: "12000",
+  },
+  {
+    type: 10,
+    name: "Pan Fried Beef | Liver",
+    price: "15000",
+  },
+  {
+    type: 10,
+    name: "Bread Crumb Coated Nile Perch (Fingers | Fillet)",
+    price: "15000",
+  },
+  {
+    type: 10,
+    name: "Chicken (Pan Fried | Coated)",
+    price: "15000",
+  },
+  {
+    type: 10,
+    name: "Chicken (BBQ | Grilled)",
     price: "20000",
   },
   {
     type: 10,
-    name: "Plain Chips",
+    name: "Pan Fried Tilapia Cutlet",
     price: "20000",
   },
   {
     type: 10,
-    name: "Plain Chips",
-    price: "20000",
-  },
-  {
-    type: 10,
-    name: "Plain Chips",
-    price: "20000",
-  },
-  {
-    type: 10,
-    name: "Plain Chips",
-    price: "20000",
-  },
-  {
-    type: 10,
-    name: "Plain Chips",
-    price: "20000",
-  },
-  {
-    type: 10,
-    name: "Plain Chips",
-    price: "20000",
-  },
-  {
-    type: 10,
-    name: "Plain Chips",
+    name: "Goat (Deep Fried | Pan Fried | Africana)",
     price: "20000",
   },
   {
@@ -266,12 +266,12 @@
   },
   {
     type: 11,
-    name: "Steamed/Veg Rice + Gravy",
+    name: "SEgg Fried Rice + Gravy",
     price: "15000",
   },
   {
     type: 11,
-    name: "Steamed/Veg Rice + Gravy",
+    name: "Beef Pilao Rice + Gravy",
     price: "15000",
   },
   {
@@ -281,28 +281,28 @@
   },
   {
     type: 12,
-    name: "Goat Pilao",
+    name: "Chicken Pilao",
     price: "30000",
   },
   {
     type: 12,
-    name: "Goat Pilao",
+    name: "Foil Grilled Chicken Strips",
     price: "30000",
   },
   {
     type: 13,
     name: "BBQ Chicken Pizza",
-    price: "30000",
+    price: "35000",
   },
   {
     type: 13,
-    name: "BBQ Chicken Pizza",
-    price: "30000",
+    name: "Hungarian Pizza",
+    price: "35000",
   },
   {
     type: 13,
-    name: "BBQ Chicken Pizza",
-    price: "30000",
+    name: "Bombay Pizza (Vegetarian Choice)",
+    price: "25000",
   },
   {
     type: 14,
@@ -311,22 +311,22 @@
   },
   {
     type: 14,
-    name: "Avocadoes Baked Beans Salads",
+    name: "Potato Delight",
     price: "15000",
   },
   {
     type: 14,
-    name: "Avocadoes Baked Beans Salads",
+    name: "Kachumbari Salads",
     price: "15000",
   },
   {
     type: 14,
-    name: "Avocadoes Baked Beans Salads",
+    name: "Cream or Clear Chicken Soup",
     price: "15000",
   },
   {
     type: 14,
-    name: "Avocadoes Baked Beans Salads",
+    name: "Cream or Clear Mushroom Soup",
     price: "15000",
   },
   {
